@@ -1,0 +1,70 @@
+_repo: Letters-of-Alexander-von-Humboldt-to-Varnhagen-von-Ense-From-1827-to-1858-With-extracts-from-__67420
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Varnhagen von Ense, Karl August
+    aliases:
+    - Ense, Karl August Varnhagen von
+    - Varnhagen von Ense, Karl August Ludwig Philipp
+    - Von Ense, Karl August Varnhagen
+    - Varnhagen d'Ense, Karl August
+    birthdate: 1785
+    deathdate: 1858
+    gutenberg_agent_id: '54250'
+    url: http://www.gutenberg.org/2009/agents/54250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense
+    - https://de.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense
+  translator:
+    agent_name: Kapp, Friedrich
+    birthdate: 1824
+    deathdate: 1884
+    gutenberg_agent_id: '44112'
+    url: http://www.gutenberg.org/2009/agents/44112
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_Kapp_(Jurist)
+    - https://en.wikipedia.org/wiki/Friedrich_Kapp
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    - Von Humboldt, Alexander
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Alexander_von_Humboldt
+    - https://en.wikipedia.org/wiki/Alexander_von_Humboldt
+  editor:
+    agent_name: Assing, Ludmilla
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '44669'
+    url: http://www.gutenberg.org/2009/agents/44669
+    wikipedia: https://de.wikipedia.org/wiki/Ludmilla_Assing
+description: ''
+gutenberg_issued: '2022-02-16'
+identifiers:
+  gutenberg: '67420'
+  lccn: '05002535'
+language: en
+pgterms:marc904: https://archive.org/details/alexandlettersof00humbrich
+pgterms:marc905: 20200716103506humboldt
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Rudd & Carleton,1860.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humboldt, Alexander von, 1769-1859 -- Correspondence'
+- !lcc 'Q'
+- GITenberg
+title: "Letters of Alexander von Humboldt to Varnhagen von Ense.\r\nFrom 1827 to 1858.\
+  \ With extracts from Varnhagen’s diaries, and letters of Varnhagen and others to\
+  \ Humboldt"
+url: http://www.gutenberg.org/ebooks/67420
