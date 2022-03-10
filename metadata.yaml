@@ -24,6 +24,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Friedrich_Kapp_(Jurist)
     - https://en.wikipedia.org/wiki/Friedrich_Kapp
+covers:
+- cover_type: archival
+  image_path: 67420-h/images/cover.jpg
 creator:
   author:
     agent_name: Humboldt, Alexander von
@@ -45,6 +48,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44669
     wikipedia: https://de.wikipedia.org/wiki/Ludmilla_Assing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67420#Letters-of-Alexander-von-Humboldt-to-Varnhagen-von-Ense-From-1827-to-1858-With-extracts-from-_
 gutenberg_issued: '2022-02-16'
 identifiers:
   gutenberg: '67420'
